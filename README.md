@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**13** solved · 13 problems · 0 labs · 0 math
+**14** solved · 14 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -14,6 +14,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | --- | --- | --- | --- |
 | [Calculate Accuracy Score](https://www.deep-ml.com/problems/36) | easy | 2026-10-12 | [solution](problems/0036-calculate-accuracy-score) |
 | [Calculate Covariance Matrix](https://www.deep-ml.com/problems/10) | easy | 2026-09-23 | [solution](problems/0010-calculate-covariance-matrix) |
+| [Calculate F1 Score from Predicted and True Labels](https://www.deep-ml.com/problems/91) | easy | 2026-10-14 | [solution](problems/0091-calculate-f1-score-from-predicted-and-true-labels) |
 | [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2026-09-22 | [solution](problems/0004-calculate-mean-by-row-or-column) |
 | [Descriptive Statistics Calculator](https://www.deep-ml.com/problems/78) | easy | 2026-10-05 | [solution](problems/0078-descriptive-statistics-calculator) |
 | [Implement F-Score Calculation for Binary Classification](https://www.deep-ml.com/problems/61) | easy | 2026-10-14 | [solution](problems/0061-implement-f-score-calculation-for-binary-classification) |
