@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**20** solved · 20 problems · 0 labs · 0 math
+**21** solved · 21 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -31,6 +31,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-09-20 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Binomial Distribution Probability](https://www.deep-ml.com/problems/79) | medium | 2026-10-03 | [solution](problems/0079-binomial-distribution-probability) |
 | [Calculate Correlation Matrix](https://www.deep-ml.com/problems/37) | medium | 2026-09-24 | [solution](problems/0037-calculate-correlation-matrix) |
+| [Implement Gradient Descent Variants with MSE Loss](https://www.deep-ml.com/problems/47) | medium | 2026-10-22 | [solution](problems/0047-implement-gradient-descent-variants-with-mse-loss) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-09-21 | [solution](problems/0009-matrix-times-matrix) |
 
 ---
